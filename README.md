@@ -16,3 +16,7 @@
 ## Demo
 
 View the demo of the project by visiting the live page (if available).
+
+## Deployment
+
+-[Deployment Link](https://study-sync-tan.vercel.app/)
